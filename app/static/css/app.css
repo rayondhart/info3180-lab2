@@ -1,3 +1,50 @@
 body {
     padding-top: 5rem;
 }
+
+#Rayon_Picture{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin-top: 30px;
+
+}
+
+#Name{
+    font-weight: bold;
+}
+
+#head{
+    background-color: lightcoral;
+    align-content: center;
+    text-align: center;
+    padding-bottom: 30px;
+
+
+
+}
+
+#values div h3{
+    font-weight: bold;
+}
+
+#body button{
+    background-color: brown;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    }
+
+#values{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+#body{
+    padding-top: 10px;
+    text-align: center;
+    
+}
